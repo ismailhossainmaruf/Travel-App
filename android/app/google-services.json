@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381188413739",
+    "project_id": "day39-travelapp-1stproject",
+    "storage_bucket": "day39-travelapp-1stproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381188413739:android:8d73771347a2b5b5b58d6e",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381188413739-u3i2ia6jm7eqinf1rv4e2tnmrskn6v9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKaZvdRurP0NcPGQykhq2aJtWgB6cqGlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381188413739-u3i2ia6jm7eqinf1rv4e2tnmrskn6v9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
